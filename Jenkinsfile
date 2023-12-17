@@ -1,7 +1,7 @@
 pipeline {
 	agent any
 	tools {
-        maven 'm395' 
+        maven 'm396' 
     }
 	stages {
 		stage ('build') {
